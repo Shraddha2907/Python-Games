@@ -4,7 +4,7 @@ Welcome to the Python Games Repository! This repository contains fun and interac
 
 1. **Snake, Water, and Gun**
 2. **Number Guessing Game**
-
+3. **Stopwatch**
 
 ## Game 1: Snake, Water, and Gun
 
@@ -38,4 +38,18 @@ This is a simple number-guessing game where the computer randomly selects a numb
   - "Higher number please" if your guess is too low.
   - "Lower number please" if your guess is too high.
 - The game continues until you guess the correct number, at which point the program will display the number of attempts it took you to win.
+
+---
+
+## Game 2: Number Guessing Game
+
+### Overview
+A simple and interactive Stopwatch Application built using Python, designed to accurately measure elapsed time with start, stop, and reset functionality. This project focuses on understanding time-based operations, event handling, and clean code structure.
+
+### Features
+Start the stopwatch
+Pause/Stop the stopwatch
+Reset the timer
+Accurate time tracking
+User-friendly and lightweight implementation
 
